@@ -10,7 +10,7 @@ Tasks done during VS Code live demo:
 3 - Find "MyPass123" - and then duplicate line 20 by using Shift + Alt + DownArrow
 4 - Uncomment lines 18 - 21
 5 - Find and replace username2 to username
-6 - autoformat the code, using Shift + Alt + F
+6 - autoformat the code, using Shift + Alt + Ff
  */
 
 describe('This is first test suite', () => {
